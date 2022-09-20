@@ -1,0 +1,55 @@
+body {
+    text-align: center;
+}
+
+header {
+    padding-top: 1%;
+}
+
+.head {
+    font-size: 1.2em;
+    padding-bottom: 10px;
+    font-weight: bold;
+}
+
+.header_hr {
+    margin-top: 1%;
+}
+
+main {
+    width: 80%;
+    margin: 0 auto;
+    text-align: left;
+    padding-top: 50px;
+}
+
+.title {
+    font-weight: bold;
+    line-height: 1.2em;
+}
+
+.detail {
+    padding-top: 10px;
+}
+
+.sub_title {
+    line-height: 1em;
+    font-weight: bolder;
+    padding: 10px 0;
+}
+
+.main_text {
+    padding-top: 10px;
+}
+
+.sub_text {
+    padding-top: 5px;
+}
+
+.p_div {
+    padding-top: 30px;
+}
+
+.p_8 {
+    padding-bottom: 20vh;
+}
